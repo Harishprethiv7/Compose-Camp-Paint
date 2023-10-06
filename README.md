@@ -30,4 +30,3 @@ Before you begin, ensure you have the following installed:
 
    ```shell
    git clone https://github.com/yourusername/simple-android-paint-app.git
-# Compose-Camp-Paint
